@@ -8,6 +8,7 @@
 # * [Mathematical Python](https://www.math.ubc.ca/~pwalls/math-python/jupyter/markdown/)
 # 
 # * [Writing Mathematical Expressions with Latex](https://link.springer.com/content/pdf/bbm%3A978-1-4842-3913-1%2F1.pdf)
+# * [w3schools::códigos HTML - CSS - PYTHON](https://www.w3schools.com/tags/att_img_align.asp)
 # 
 
 # ### Escrevendo expressões com Markdown e LaTex:
